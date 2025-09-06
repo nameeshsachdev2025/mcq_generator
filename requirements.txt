@@ -1,0 +1,18 @@
+groq
+langchain-groq
+langchain
+streamlit
+python-dotenv
+PyPDF2
+
+-e .
+# 🔎 Meaning of -e .
+
+# -e means “editable install”.
+
+# . means “this current directory”.
+
+# So together, it tells pip:
+
+# “Install the current project (the folder where this requirements.txt lives) in editable/development mode.
+# f your repo has a setup.py or pyproject.toml with a package definition, -e . makes it available as a Python package while you’re still editing the source code.”

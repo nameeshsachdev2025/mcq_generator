@@ -1,0 +1,15 @@
+/env
+/venv/
+/.venv/
+
+# Secret files - NEVER commit these
+.env
+*.env
+
+# macOS & editor junk files
+.DS_Store
+__pycache__/
+.ipynb_checkpoints/
+
+# Log files
+*.log
