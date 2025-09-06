@@ -3,9 +3,7 @@
 /.venv/
 
 # Secret files - NEVER commit these
-.env
-*.env
-
+experiment/.env
 # macOS & editor junk files
 .DS_Store
 __pycache__/
