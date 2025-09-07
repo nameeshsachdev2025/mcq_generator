@@ -4,6 +4,7 @@
 
 # Secret files - NEVER commit these
 experiment/.env
+.env
 # macOS & editor junk files
 .DS_Store
 __pycache__/
